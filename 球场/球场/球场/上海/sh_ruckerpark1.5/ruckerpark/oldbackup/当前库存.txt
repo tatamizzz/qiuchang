@@ -1,0 +1,1 @@
+Truncate({goods_stock_now;1.商品库存}/{goods_stock_now;1.商品规格})&"箱"&({goods_stock_now;1.商品库存} mod {goods_stock_now;1.商品规格})&{goods_stock_now;1.商品单位}
